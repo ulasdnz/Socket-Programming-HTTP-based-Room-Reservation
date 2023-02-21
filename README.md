@@ -3,7 +3,6 @@
 # **HTTP Based Room Reservation** 
 <br>
 
-<hr>
 The following steps are required to run the code:<br>
 </div>
 
