@@ -4,8 +4,7 @@
 <br>
 </div>
 
-## Preview Link
-<br>
-* Open three different terminal.
-* For each folder (activity, room, reservation), run app.js via command "node app.js".
+## To run the code:
+Navigate to src and run the app.js file with 3 arguments Activity server port number, Room server port number, Reservation server port number.
+`node app.js 8080 8081 8082`
 
