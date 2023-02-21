@@ -138,7 +138,6 @@ export const send403 = (socket, serverName) => {
   return socket.end(response);
 };
 
-
 export const getDayName = (dayNumber) => {
   if (dayNumber === 1) return "Monday";
   if (dayNumber === 2) return "Tuesday";
